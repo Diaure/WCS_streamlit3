@@ -1,0 +1,6 @@
+﻿name,password,email,failed_login_attempts,logged_in,role
+john,1H234,john@example.com,0,False,user
+jane,5L678,jane@example.com,0,False,admin
+diane,6798K,diana@example.com,0,False,user
+lake,S2431,lake@example.com,0,False,user
+will,785Y6,will@example.com,0,False,admin
